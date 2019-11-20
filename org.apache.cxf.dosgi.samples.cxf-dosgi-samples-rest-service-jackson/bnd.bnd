@@ -1,0 +1,13 @@
+Bundle-Version: 2.4.0
+-buildpath: \
+	osgi.cmpn,\
+	org.apache.cxf.dosgi.cxf-dosgi-common,\
+	com.fasterxml.jackson.jaxrs.jackson-jaxrs-json-provider,\
+	org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-api,\
+	io.swagger.annotations,\
+	org.apache.cxf.cxf-core,\
+	org.apache.cxf.cxf-rt-features-logging
+-privatepackage: org.apache.cxf.dosgi.samples.rest.impl
+Bundle-Name: CXF DOSGi Samples REST Service
+Bundle-SymbolicName: org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-service-jackson
+Automatic-Module-Name: org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-service-jackson

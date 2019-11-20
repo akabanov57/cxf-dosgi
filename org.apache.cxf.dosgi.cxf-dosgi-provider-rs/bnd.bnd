@@ -1,0 +1,15 @@
+Bundle-Version: 2.4.0
+Bundle-Name: CXF DOSGi provider rs
+Bundle-SymbolicName: org.apache.cxf.dosgi.cxf-dosgi-provider-rs
+Automatic-Module-Name: org.apache.cxf.dosgi.cxf-dosgi-provider-rs
+-buildpath: \
+	osgi.cmpn,\
+	org.apache.aries.rsa.spi,\
+	org.apache.cxf.cxf-core,\
+	org.apache.cxf.dosgi.cxf-dosgi-common,\
+	jakarta.ws.rs-api,\
+	org.apache.cxf.cxf-rt-frontend-jaxrs,\
+	org.apache.cxf.cxf-rt-rs-client,\
+	osgi.core,\
+	org.ops4j.pax.logging.pax-logging-api
+-privatepackage: org.apache.cxf.dosgi.dsw.handlers.rest

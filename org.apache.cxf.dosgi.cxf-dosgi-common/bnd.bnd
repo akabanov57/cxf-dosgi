@@ -1,0 +1,23 @@
+Bundle-Version: 2.4.0
+Bundle-Name: CXF DOSGi Common
+Bundle-SymbolicName: org.apache.cxf.dosgi.cxf-dosgi-common
+Automatic-Module-Name: org.apache.cxf.dosgi.cxf-dosgi-common
+-buildpath: \
+	osgi.core,\
+	osgi.cmpn,\
+	org.apache.aries.rsa.spi,\
+	org.apache.cxf.cxf-core,\
+	org.apache.cxf.cxf-rt-transports-http,\
+	org.ops4j.pax.logging.pax-logging-api,\
+	org.apache.felix.http.servlet-api
+-privatepackage: \
+	org.apache.cxf.dosgi.common.intent.impl,\
+	org.apache.cxf.dosgi.common.policy
+Export-Package: \
+	org.apache.cxf.dosgi.common.api,\
+	org.apache.cxf.dosgi.common.endpoint,\
+	org.apache.cxf.dosgi.common.handlers,\
+	org.apache.cxf.dosgi.common.intent,\
+	org.apache.cxf.dosgi.common.proxy,\
+	org.apache.cxf.dosgi.common.util,\
+	org.apache.cxf.dosgi.common.httpservice

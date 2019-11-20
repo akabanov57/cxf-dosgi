@@ -1,0 +1,9 @@
+Bundle-Version: 1.0.0
+Bundle-Name: CXF-DOSGi OSGi Framework Extension
+Bundle-Description: Exported jdk packages needed by third party software
+Bundle-Vendor: Andrei Kabanov
+Bundle-ContactAddress: akabanov@jetstreamsoft.com
+Fragment-Host: system.bundle; extension:=framework
+Export-Package: \
+    com.sun.source.tree,\
+    com.sun.source.util

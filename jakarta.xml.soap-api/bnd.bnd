@@ -1,0 +1,13 @@
+-buildpath: com.sun.activation.jakarta.activation
+Export-Package: javax.xml.soap
+Bundle-Version: 1.4.1
+Import-Package: org.glassfish.hk2.osgiresourcelocator;resolution:=dynamic,*
+Bundle-Name: jakarta.xml.soap API
+Bundle-Description: Java(TM) SAAJ 1.4 API Design Specification
+Bundle-DocURL: https://www.eclipse.org
+Bundle-SymbolicName: jakarta.xml.soap-api
+Specification-Vendor: Oracle
+Specification-Version: 1.4
+-includeresource: \
+	META-INF=resources
+	
