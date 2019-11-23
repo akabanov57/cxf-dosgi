@@ -72,3 +72,5 @@ logging is applied.
 
 Any http requests to the service should now show as a logging message in the
 karaf log.
+
+Warning. It seems that output is not correct. Compare with samples-rest-service-jackson.
