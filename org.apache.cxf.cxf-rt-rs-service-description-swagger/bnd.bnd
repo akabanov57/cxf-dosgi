@@ -1,0 +1,28 @@
+Bundle-Version: 3.3.4
+-buildpath: \
+	org.apache.commons.lang3,\
+	org.apache.cxf.cxf-core,\
+	org.apache.cxf.cxf-rt-frontend-jaxrs,\
+	io.swagger.jaxrs,\
+	io.swagger.models,\
+	org.apache.felix.http.servlet-api,\
+	io.swagger.core,\
+	javax.validation.api,\
+	com.fasterxml.jackson.core.jackson-databind,\
+	jakarta.ws.rs-api,\
+	io.swagger.annotations,\
+	org.apache.cxf.cxf-rt-rs-service-description-common-openapi,\
+	org.apache.cxf.cxf-rt-rs-service-description-swagger-ui,\
+	com.fasterxml.jackson.core.jackson-core,\
+	org.apache.cxf.cxf-rt-rs-json-basic,\
+	jakarta.xml.ws-api
+Export-Package: \
+	org.apache.cxf.jaxrs.swagger,\
+	org.apache.cxf.jaxrs.swagger.openapi,\
+	org.apache.cxf.jaxrs.swagger.parse
+Bundle-Name: Apache CXF JAX-RS Service Description Swagger
+Bundle-Description: Apache CXF JAX-RS Service Description Swagger
+Bundle-SymbolicName: org.apache.cxf.cxf-rt-rs-service-description-swagger
+Automatic-Module-Name: org.apache.cxf.cxf-rt-rs-service-description-swagger
+-includeresource: META-INF=resources
+ 

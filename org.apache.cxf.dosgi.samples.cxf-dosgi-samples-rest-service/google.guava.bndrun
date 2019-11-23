@@ -1,0 +1,6 @@
+-runfw: org.apache.felix.framework;version='[6.0.3,6.0.3]'
+-runee: JavaSE-13
+-runrequires: \
+	bnd.identity;id='org.apache.felix.gogo.runtime',\
+	bnd.identity;id='org.apache.felix.gogo.shell',\
+	bnd.identity;id='org.apache.felix.gogo.command'

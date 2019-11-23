@@ -1,0 +1,12 @@
+Bundle-Version: 2.4.0
+Bundle-Name: CXF DOSGi Samples REST Impl
+Bundle-SymbolicName: org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-service
+Automatic-Module-Name: org.apache.cxf.dosgi.samples.cxf-dosgi-samles-rest-service
+-buildpath: \
+	org.apache.cxf.dosgi.cxf-dosgi-common,\
+	org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-api,\
+	osgi.cmpn,\
+	org.apache.cxf.cxf-rt-rs-service-description-common-openapi,\
+	org.apache.cxf.cxf-rt-rs-service-description-swagger-ui,\
+	org.apache.cxf.cxf-rt-rs-service-description-swagger
+-privatepackage: org.apache.cxf.dosgi.samples.rest.impl
