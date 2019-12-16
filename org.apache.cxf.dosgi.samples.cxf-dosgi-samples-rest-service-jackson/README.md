@@ -12,6 +12,9 @@ In CXF-DOSGi we can set the bus property by using a special service property on 
 We can also set the JacksonJaxbJsonProvider by creating a separate class that offers the provider as an Remote Service Admin intent. As a last step we must add the intent to the TaskResourceImpl using another service property.
 
 curl --header "Accept:application/json" http://localhost:8080/cxf/tasks
+
 curl --header "Accept:application/json" http://localhost:8080/cxf/tasks/1
+
 curl --header "Accept:application/json" http://localhost:8080/cxf/tasks/2
+
 The output of this application is "more correct" than samples-rest-service.

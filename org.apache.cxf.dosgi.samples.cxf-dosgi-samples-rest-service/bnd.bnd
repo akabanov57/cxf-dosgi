@@ -10,3 +10,4 @@ Automatic-Module-Name: org.apache.cxf.dosgi.samples.cxf-dosgi-samles-rest-servic
 	org.apache.cxf.cxf-rt-rs-service-description-swagger-ui,\
 	org.apache.cxf.cxf-rt-rs-service-description-swagger
 -privatepackage: org.apache.cxf.dosgi.samples.rest.impl
+-includeresource: META-INF=resources

@@ -1,0 +1,223 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+CXF DOSGi Samples Repository
+
+
+From: 'an unknown organization'
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava/guava) com.google.guava:guava:bundle:20.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - swagger-annotations (https://github.com/swagger-api/swagger-core/modules/swagger-annotations) io.swagger:swagger-annotations:bundle:1.5.16
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-core (https://github.com/swagger-api/swagger-core/modules/swagger-core) io.swagger:swagger-core:bundle:1.5.16
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-jaxrs (https://github.com/swagger-api/swagger-core/modules/swagger-jaxrs) io.swagger:swagger-jaxrs:bundle:1.5.16
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-models (https://github.com/swagger-api/swagger-core/modules/swagger-models) io.swagger:swagger-models:bundle:1.5.16
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Bean Validation API (http://beanvalidation.org) javax.validation:validation-api:jar:1.1.0.Final
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JLine (http://nexus.sonatype.org/oss-repository-hosting.html/jline) jline:jline:jar:3.0.0.M1
+    License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+  - zookeeper  org.apache.zookeeper:zookeeper:pom:3.4.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Reflections (http://github.com/ronmamo/reflections) org.reflections:reflections:jar:0.9.11
+    License: WTFPL  (http://www.wtfpl.net/)    License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)
+  - SnakeYAML (http://www.snakeyaml.org) org.yaml:snakeyaml:bundle:1.17
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WSDL4J (http://sf.net/projects/wsdl4j) wsdl4j:wsdl4j:jar:1.6.3
+    License: CPL  (http://www.opensource.org/licenses/cpl1.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org/)
+  - XML Commons Resolver Component (http://xml.apache.org/commons/components/resolver/) xml-resolver:xml-resolver:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com)
+  - Woodstox (https://github.com/FasterXML/woodstox) com.fasterxml.woodstox:woodstox-core:bundle:5.0.3
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.8.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.8.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.8.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-YAML (https://github.com/FasterXML/jackson) com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:bundle:2.8.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'fasterxml.com' (http://fasterxml.com)
+  - Stax2 API (http://wiki.fasterxml.com/WoodstoxStax2) org.codehaus.woodstox:stax2-api:bundle:3.1.4
+    License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+
+From: 'FuseSource, Corp.' (http://fusesource.com/)
+  - jansi (http://jansi.fusesource.org/jansi) org.fusesource.jansi:jansi:jar:1.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'GlassFish Community' (https://glassfish.dev.java.net)
+  - Java Servlet API (http://servlet-spec.java.net) javax.servlet:javax.servlet-api:jar:3.1.0
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html)
+
+From: 'GlassFish Community' (https://glassfish.java.net)
+  - javax.annotation API (http://jcp.org/en/jsr/detail?id=250) javax.annotation:javax.annotation-api:jar:1.3
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) org.ow2.asm:asm:jar:5.2
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM All (http://asm.objectweb.org/asm-all/) org.ow2.asm:asm-all:jar:5.0.4
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'OPS4J - Open Participation Software for Java' (http://www.ops4j.org/)
+  - OPS4J Pax Logging - API (http://www.ops4j.org/projects/pax/logging/pax-logging-api) org.ops4j.pax.logging:pax-logging-api:bundle:1.8.5
+    License: ALv2  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - OPS4J Pax Logging - Service (http://www.ops4j.org/projects/pax/logging/pax-logging-service) org.ops4j.pax.logging:pax-logging-service:bundle:1.8.5
+    License: ALv2  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.14
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J JDK14 Binding (http://www.slf4j.org) org.slf4j:slf4j-jdk14:jar:1.7.21
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Shigeru Chiba, www.javassist.org'
+  - Javassist (http://www.javassist.org/) org.javassist:javassist:bundle:3.21.0-GA
+    License: MPL 1.1  (http://www.mozilla.org/MPL/MPL-1.1.html)    License: LGPL 2.1  (http://www.gnu.org/licenses/lgpl-2.1.html)    License: Apache License 2.0  (http://www.apache.org/licenses/)
+
+From: 'The Apache Software Foundation' (http://www.apache.org)
+  - Servlet 3.0 (http://geronimo.apache.org/maven/specs/geronimo-servlet_3.0_spec/1.0) org.apache.geronimo.specs:geronimo-servlet_3.0_spec:bundle:1.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Aries Remote Service Admin Core (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.core/) org.apache.aries.rsa:org.apache.aries.rsa.core:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin SPI (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.spi/) org.apache.aries.rsa:org.apache.aries.rsa.spi:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin Topology Manager (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.topology-manager/) org.apache.aries.rsa:org.apache.aries.rsa.topology-manager:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin Repository (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/repository/) org.apache.aries.rsa:repository:pom:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin Discovery Gogo Commands (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.discovery.command/) org.apache.aries.rsa.discovery:org.apache.aries.rsa.discovery.command:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin Discovery Config (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.discovery/org.apache.aries.rsa.discovery.config/) org.apache.aries.rsa.discovery:org.apache.aries.rsa.discovery.config:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin Discovery Local (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.discovery.local/) org.apache.aries.rsa.discovery:org.apache.aries.rsa.discovery.local:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin Discovery Zookeeper (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.discovery.zookeeper/) org.apache.aries.rsa.discovery:org.apache.aries.rsa.discovery.zookeeper:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - org.apache.aries.rsa.examples.echotcp.api (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.examples/org.apache.aries.rsa.examples.echotcp/org.apache.aries.rsa.examples.echotcp.api/) org.apache.aries.rsa.examples.echotcp:org.apache.aries.rsa.examples.echotcp.api:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - org.apache.aries.rsa.examples.echotcp.consumer (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.examples/org.apache.aries.rsa.examples.echotcp/org.apache.aries.rsa.examples.echotcp.consumer/) org.apache.aries.rsa.examples.echotcp:org.apache.aries.rsa.examples.echotcp.consumer:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - org.apache.aries.rsa.examples.echotcp.service (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.examples/org.apache.aries.rsa.examples.echotcp/org.apache.aries.rsa.examples.echotcp.service/) org.apache.aries.rsa.examples.echotcp:org.apache.aries.rsa.examples.echotcp.service:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Aries Remote Service Admin provider TCP (http://www.apache.org/org.apache.aries.rsa.main/org.apache.aries.rsa.parent/org.apache.aries.rsa.provider.tcp/) org.apache.aries.rsa.provider:org.apache.aries.rsa.provider.tcp:bundle:1.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.2.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Core (http://cxf.apache.org) org.apache.cxf:cxf-core:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime SOAP Binding (http://cxf.apache.org) org.apache.cxf:cxf-rt-bindings-soap:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime XML Binding (http://cxf.apache.org) org.apache.cxf:cxf-rt-bindings-xml:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime Aegis Databinding (http://cxf.apache.org/) org.apache.cxf:cxf-rt-databinding-aegis:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime JAXB DataBinding (http://cxf.apache.org) org.apache.cxf:cxf-rt-databinding-jaxb:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime JAX-RS Frontend (http://cxf.apache.org) org.apache.cxf:cxf-rt-frontend-jaxrs:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime JAX-WS Frontend (http://cxf.apache.org) org.apache.cxf:cxf-rt-frontend-jaxws:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime Simple Frontend (http://cxf.apache.org) org.apache.cxf:cxf-rt-frontend-simple:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF JAX-RS Client (http://cxf.apache.org) org.apache.cxf:cxf-rt-rs-client:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF JAX-RS Service Description Swagger (http://cxf.apache.org) org.apache.cxf:cxf-rt-rs-service-description-swagger:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime HTTP Transport (http://cxf.apache.org) org.apache.cxf:cxf-rt-transports-http:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime WS Addressing (http://cxf.apache.org) org.apache.cxf:cxf-rt-ws-addr:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime WS Policy (http://cxf.apache.org) org.apache.cxf:cxf-rt-ws-policy:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache CXF Runtime Core for WSDL (http://cxf.apache.org) org.apache.cxf:cxf-rt-wsdl:bundle:3.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Configuration Admin Service (http://felix.apache.org/org.apache.felix.configadmin/) org.apache.felix:org.apache.felix.configadmin:bundle:1.8.8
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix EventAdmin (http://felix.apache.org/org.apache.felix.eventadmin/) org.apache.felix:org.apache.felix.eventadmin:bundle:1.4.6
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix File Install (http://felix.apache.org/site/apache-felix-file-install.html) org.apache.felix:org.apache.felix.fileinstall:jar:3.5.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Framework (http://felix.apache.org/org.apache.felix.framework/) org.apache.felix:org.apache.felix.framework:bundle:5.6.8
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Gogo Command (http://felix.apache.org/gogo-parent/org.apache.felix.gogo.command/) org.apache.felix:org.apache.felix.gogo.command:bundle:0.16.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Gogo Runtime (http://felix.apache.org/gogo-parent/org.apache.felix.gogo.runtime/) org.apache.felix:org.apache.felix.gogo.runtime:bundle:0.10.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Gogo Shell (http://felix.apache.org/gogo-parent/org.apache.felix.gogo.shell/) org.apache.felix:org.apache.felix.gogo.shell:bundle:0.12.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Http Api (http://felix.apache.org/org.apache.felix.http.parent/org.apache.felix.http.api/) org.apache.felix:org.apache.felix.http.api:jar:2.3.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Http Jetty (http://felix.apache.org/org.apache.felix.http.parent/org.apache.felix.http.jetty/) org.apache.felix:org.apache.felix.http.jetty:jar:3.0.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Metatype Service (http://felix.apache.org/org.apache.felix.metatype/) org.apache.felix:org.apache.felix.metatype:bundle:1.1.2
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Declarative Services (http://felix.apache.org/org.apache.felix.scr/) org.apache.felix:org.apache.felix.scr:bundle:2.0.12
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Neethi (http://ws.apache.org/neethi/) org.apache.neethi:neethi:bundle:3.1.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache ServiceMix :: Bundles :: wsdl4j (http://servicemix.apache.org/bundles-pom/org.apache.servicemix.bundles.wsdl4j/) org.apache.servicemix.bundles:org.apache.servicemix.bundles.wsdl4j:bundle:1.6.3_1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache ServiceMix :: Specs :: JAX-RS API 2.1 (http://servicemix.apache.org/specs/org.apache.servicemix.specs.jaxrs-api-2.1/) org.apache.servicemix.specs:org.apache.servicemix.specs.jaxrs-api-2.1:bundle:2.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache ServiceMix :: Specs :: JSR-339 API 2.0.1 (http://servicemix.apache.org/specs/org.apache.servicemix.specs.jsr339-api-2.0.1/) org.apache.servicemix.specs:org.apache.servicemix.specs.jsr339-api-2.0.1:bundle:2.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - XmlSchema Core (http://ws.apache.org/commons/xmlschema20/xmlschema-core/) org.apache.ws.xmlschema:xmlschema-core:bundle:2.2.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - CXF DOSGi Common (https://www.apache.org/cxf-dosgi-main/cxf-dosgi-parent/cxf-dosgi-common/) org.apache.cxf.dosgi:cxf-dosgi-common:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi provider rs (https://www.apache.org/cxf-dosgi-main/cxf-dosgi-parent/cxf-dosgi-provider-rs/) org.apache.cxf.dosgi:cxf-dosgi-provider-rs:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi provider ws (https://www.apache.org/cxf-dosgi-main/cxf-dosgi-parent/cxf-dosgi-provider-ws/) org.apache.cxf.dosgi:cxf-dosgi-provider-ws:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi Distribution Repository (https://www.apache.org/cxf-dosgi-main/cxf-dosgi-parent/cxf-dosgi-repository/) org.apache.cxf.dosgi:cxf-dosgi-repository:jar:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi Samples REST API (http://cxf.apache.org/cxf-dosgi-samples-rest-parent/cxf-dosgi-samples-rest-api/) org.apache.cxf.dosgi.samples:cxf-dosgi-samples-rest-api:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi Samples REST Client (http://cxf.apache.org/cxf-dosgi-samples-rest-parent/cxf-dosgi-samples-rest-client/) org.apache.cxf.dosgi.samples:cxf-dosgi-samples-rest-client:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi Samples REST Impl (http://cxf.apache.org/cxf-dosgi-samples-rest-parent/cxf-dosgi-samples-rest-impl/) org.apache.cxf.dosgi.samples:cxf-dosgi-samples-rest-impl:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi Samples SOAP API (http://cxf.apache.org/cxf-dosgi-samples-soap-parent/cxf-dosgi-samples-soap-api/) org.apache.cxf.dosgi.samples:cxf-dosgi-samples-soap-api:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi samples SOAP Client (http://cxf.apache.org/cxf-dosgi-samples-soap-parent/cxf-dosgi-samples-soap-client/) org.apache.cxf.dosgi.samples:cxf-dosgi-samples-soap-client:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - CXF DOSGi Samples SOAP Impl (http://cxf.apache.org/cxf-dosgi-samples-soap-parent/cxf-dosgi-samples-soap-impl/) org.apache.cxf.dosgi.samples:cxf-dosgi-samples-soap-impl:bundle:2.3.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Webtide' (http://webtide.com)
+  - Jetty :: JMX Management (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-jmx:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Security (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-security:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Servlet Handling (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-servlet:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-util:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Webapp Application Support (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-webapp:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: XML utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-xml:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: API (http://www.eclipse.org/jetty/websocket-api) org.eclipse.jetty.websocket:websocket-api:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Servlet Interface (http://www.eclipse.org/jetty/websocket-servlet) org.eclipse.jetty.websocket:websocket-servlet:jar:9.2.6.v20141205
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+
+
+
+

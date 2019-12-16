@@ -11,3 +11,4 @@ Bundle-Version: 2.4.0
 Bundle-Name: CXF DOSGi Samples REST Service
 Bundle-SymbolicName: org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-service-jackson
 Automatic-Module-Name: org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-service-jackson
+-includeresource: META-INF=resources

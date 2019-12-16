@@ -7,3 +7,4 @@ Automatic-Module-Name: org.apache.cxf.dosgi.samples.cxf-dosgi-samples-rest-api
 	io.swagger.annotations,\
 	jakarta.xml.bind-api
 Export-Package: org.apache.cxf.dosgi.samples.rest
+-includeresource: META-INF=resources
